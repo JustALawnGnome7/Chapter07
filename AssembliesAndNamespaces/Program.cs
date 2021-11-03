@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace AssembliesAndNamespaces
 {
@@ -6,7 +7,7 @@ namespace AssembliesAndNamespaces
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Hello World!");
         }
     }
 }
