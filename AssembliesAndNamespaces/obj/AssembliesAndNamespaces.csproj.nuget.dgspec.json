@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {}
+    "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {}
   },
   "projects": {
-    "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {
+    "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+        "projectUniqueName": "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
         "projectName": "AssembliesAndNamespaces",
-        "projectPath": "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+        "projectPath": "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
         "packagesPath": "/home/miles/.nuget/packages/",
-        "outputPath": "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/obj/",
+        "outputPath": "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/miles/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

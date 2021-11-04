@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrbrRLTXzXPqSLP5JT3Zk+ipCmppP85WeeKxs0baMhrRPUOrEDt65CaJ2otEVUsh5PoKxDRt6poMmkhXowP3mg==",
+  "dgSpecHash": "kqSALdJIeac2aOdf7s7FmZfD4VAXvr+zjTltUlJcZdhCyuayW3raSwVA5JWZNrq4SGz9Tn7gP/v8Ykbo2NVdPA==",
   "success": true,
-  "projectFilePath": "/home/miles/Programming/C#/Code/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+  "projectFilePath": "/home/miles/Programming/C#/Chapter07/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
